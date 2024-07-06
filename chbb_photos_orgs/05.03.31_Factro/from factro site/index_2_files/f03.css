@@ -1,0 +1,68 @@
+.menu1 {
+	font-family: "Courier New", Courier, mono;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #999999;
+	text-decoration: none;
+	text-align: right;
+}
+.body {
+	font-family: Helvetica, Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #999999;
+	text-decoration: none;
+	text-align: left;
+	letter-spacing: -.75pt;
+	vertical-align: text-top;
+}
+.factroheader {
+	font-family: "Courier New", Courier, mono;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: left;
+}
+.bodyblack {
+	font-family: Helvetica, Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	text-align: left;
+	letter-spacing: -.75pt;
+	vertical-align: text-top;
+}
+.bodylarge {
+	font-family: Helvetica, Arial;
+	font-size: 21px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #999999;
+	text-decoration: none;
+	text-align: left;
+	letter-spacing: -.75pt;
+	vertical-align: text-top;
+}
+.photoheader {
+	font-family: Helvetica, Arial;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bold;
+	color: #333333;
+	text-decoration: none;
+	text-align: left;
+	letter-spacing: -0.75pt;
+	vertical-align: middle;
+}
